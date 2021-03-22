@@ -1,10 +1,8 @@
-[![Dependency Status](https://img.shields.io/david/graphql/graphql-landscape.svg?style=flat-square)](https://david-dm.org/graphql/graphql-landscape) [![Netlify Status](https://api.netlify.com/api/v1/badges/9fe8d885-037d-48ce-8bf9-3bfa54152945/deploy-status)](https://app.netlify.com/sites/graphql-landscape/deploys)
+# SBB Landscape
 
-# GraphQL Landscape
+TODO
 
-![GraphQL Landscape Logo](https://landscape.graphql.org/images/left-logo.svg)
-
-- [GraphQL Landscape](#cloud-native-landscape)
+- [SBB Landscape](#cloud-native-landscape)
   * [Current Version](#current-version)
   * [Interactive Version](#interactive-version)
   * [New Entries](#new-entries)
@@ -24,11 +22,11 @@ This landscape is intended as a map to explore the GraphQL Ecosystem, and also s
 
 ## Current Version
 
-[![GraphQL Landscape](https://landscape.graphql.org/images/landscape.png)](https://landscape.graphql.org/images/landscape.png)
+TODO
 
 ## Interactive Version
 
-Please see [landscape.graphql.io](https://landscape.graphql.org).
+TODO
 
 ## New Entries
 
