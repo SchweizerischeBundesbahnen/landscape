@@ -1,0 +1,54 @@
+landscape:
+  - category:
+    name: Tooling
+    subcategories:
+      - subcategory:
+        name: Tools
+        items:
+      - subcategory:
+        name: Frameworks
+        items:
+      - subcategory:
+        name: Service Portals
+        items:
+  - category:
+    name: Platforms
+    subcategories:
+      - subcategory:
+        name: Databases
+        items:
+      - subcategory:
+        name: Scheduling & Orchestration
+        items:
+      - subcategory:
+        name: Monitoring
+        items:
+      - subcategory:
+        name: Streaming & Messaging
+        items:
+      - subcategory:
+        name: Aplication Platform
+        items:
+          - item:
+            name: Red Hat OpenShift
+            description: Red Hat® OpenShift is a container application platform that brings docker and Kubernetes to the enterprise.
+            homepage_url: https://www.openshift.com/
+            repo_url: https://github.com/openshift/origin
+            logo: red-hat-open-shift.svg
+            twitter: https://twitter.com/openshift
+            crunchbase: https://www.crunchbase.com/organization/red-hat
+      - subcategory:
+        name: Analytics
+        items:
+      - subcategory:
+        name: IAM
+        items:
+      - subcategory:
+        name: Application Protection
+        items:
+  - category:
+    name: Infrastructure
+    subcategories:
+      - subcategory:
+        name: Cloud Infrastructure
+        items:
